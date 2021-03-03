@@ -1,0 +1,23 @@
+{
+  "name": "mysql_employeetracker",
+  "version": "1.0.0",
+  "description": "An application that will help business view and manage their Employee's information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/MySQL_EmployeeTracker.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker"
+  ],
+  "author": "CFA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/MySQL_EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/caflores31/MySQL_EmployeeTracker#readme"
+}
